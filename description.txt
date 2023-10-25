@@ -1,2 +1,2 @@
 # Project description (Описание проекта)
-This is the test.
+*** This is the test project ***
