@@ -1,2 +1,4 @@
 # Project description (Описание проекта)
 *** This is the test project ***
+Test line 1
+Test line 2
